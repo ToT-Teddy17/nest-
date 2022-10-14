@@ -1,0 +1,77 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center center ;
+    background-repeat: no-repeat;
+    box-sizing: border-box;
+}
+header{
+    background-image:url('https://images6.alphacoders.com/874/874982.jpg');
+}
+header ul{
+    margin: 0%;
+    padding: 0%;
+    list-style-type: none;
+}
+header ul li{
+    margin: 0%;
+    padding: 0%;
+    display: inline-block;
+    margin-right: 20px;
+}
+header ul li a{
+    color: aliceblue;
+    text-transform: uppercase;
+    font-weight: lighter;
+    text-decoration: none;
+}
+header ul li a :hover{
+    color: crimson;
+}
+header .picture {   
+  background-image: url('https://images6.alphacoders.com/874/874982.jpg');
+  background-position-x:  center ;
+  background-position-y: center ;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.picture{  
+    background-color:white;
+    border-radius: 10px;
+}
+.picture-head{
+    padding: 25px 25px 25px 25px;
+    
+    text-align: center;
+}
+.golheseg{
+    width: 80%;
+    margin: 0 auto;
+    min-height: 700px;
+    border-radius: 20px;
+    padding: 30px;
+    background-image: url('https://shoryudo.go-centraljapan.jp/en/wp-content/uploads/2019/11/6007_1_org.jpg');
+}
+
+
+
+footer{
+    background-image: url('https://images6.alphacoders.com/874/874982.jpg');
+    padding: 50px;
+    text-align: center;
+    color: aliceblue;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+
+
+
+
+
+

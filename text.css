@@ -1,0 +1,12 @@
+.banner{
+    border-radius: 30px;
+    border: rgb(0, 0, 0);
+    background-color: yellow;
+    height: 100px;
+    width: 100%;
+    text-align: center;
+    padding-top: 250px;
+    padding-bottom: 250px;
+    text-shadow: 10px 5px 3px cornsilk;
+
+}
