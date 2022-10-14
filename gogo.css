@@ -168,7 +168,7 @@ a{
     align-items: center;
     justify-content: center;
     color: #fff;
-    font-size: 20px;
+    font-size: 25px;
 }
 .feature-article_img:hover::after{
     opacity: 1;
